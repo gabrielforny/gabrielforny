@@ -1,8 +1,7 @@
 ### Olá! Eu sou o Gabriel Forny 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-forny-501439132/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielforny/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gf097)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/gabriel-forny-501439132/))
+[![Instagram](icons/instagram.png)](https://www.instagram.com/gabrielforny/))
 
 <div>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielforny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
