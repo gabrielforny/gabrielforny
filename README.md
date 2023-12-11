@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gabriel Forny 👋
 
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/gabriel-forny-501439132/))
-[![Instagram](icons/instagram.png)](https://www.instagram.com/gabrielforny/))
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/gabriel-forny-501439132/)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/gabrielforny/)
 
 <div>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielforny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
