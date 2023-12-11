@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Gabriel Forny 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/gabriel-forny-501439132/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://www.instagram.com/gabrielforny/)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gf097@hotmail.com)](mailto:gf097@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-gabrielforny-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/gabriel-forny-501439132/)
+[![Instagram Badge](https://img.shields.io/badge/-gabrielforny-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://www.instagram.com/gabrielforny/)
+[![Gmail Badge](https://img.shields.io/badge/-gf097@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gf097@hotmail.com)](mailto:gf097@hotmail.com)
 
 <div>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielforny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
