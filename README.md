@@ -5,8 +5,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gf097)
 
 <div>
-<a href="https://github.com/gabrielforny">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfornyi&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielforny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
