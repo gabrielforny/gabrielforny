@@ -14,6 +14,10 @@
       <img align="center" alt="html5"
          src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoCol" />
    </div>
+      <div>
+      <img align="center" alt="html5"
+         src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+   </div>
    <div>
       <img align="center" alt="html5"
          src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -45,9 +49,5 @@
    <div>
       <img align="center" alt="html5"
          src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-   </div>
-   <div>
-      <img align="center" alt="html5"
-         src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
    </div>
 </div>
