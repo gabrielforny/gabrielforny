@@ -51,6 +51,7 @@ Um entusiasta da tecnologia e desenvolvedor de software desde 2021. Migrado de c
          src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
    </div>
 </div>
+
 ## 📫 Entre em Contato
 
 [![Linkedin Badge](https://img.shields.io/badge/-gabrielforny-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/gabriel-forny-501439132/)
