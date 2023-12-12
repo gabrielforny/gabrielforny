@@ -4,10 +4,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-gabriel.forny-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://www.instagram.com/gabrielforny/)
 [![Gmail Badge](https://img.shields.io/badge/-gf097@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gf097@hotmail.com)](mailto:gf097@hotmail.com)
 
-<div>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielforny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 ## Tecnologias que utilizo no meu dia a dia
 
 <div style="
