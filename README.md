@@ -8,7 +8,7 @@
 
 <div style="
     margin-bottom: 0 !important;
-    display: flex;
+    display: grid;
     gap: 9px;">
    <div>
       <img align="center" alt="html5"
