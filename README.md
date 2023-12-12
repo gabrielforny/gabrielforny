@@ -12,7 +12,7 @@
 
 <div style="
     margin-bottom: 0 !important;
-    display: flex;
+    display: flex !important;
     gap: 9px;">
    <div>
       <img align="center" alt="html5"
