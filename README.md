@@ -2,7 +2,7 @@
 
 Um entusiasta da tecnologia e desenvolvedor de software desde 2021. Migrado de carreira, vim da área educacional, onde era professor de Matemática. Hoje atuo como desenvolvedor, sou formado em Análise e Desenvolvimento de Sistemas e sou um pessoa que sempre está em busca de novos conhecimentos e aprofundando conhecimentos!
 
-"Quanto mais aumenta nosso conhecimento, mais evidente fica nossa ignorância! - John F. Kennedy"
+"Quanto mais aumenta nosso conhecimento, mais evidente fica nossa ignorância!" - John F. Kennedy
 
 ## 🔧 Tecnologias e Ferramentas
 
