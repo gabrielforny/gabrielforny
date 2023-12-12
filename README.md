@@ -1,14 +1,14 @@
 ### Olá! Eu sou o Gabriel Forny 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-gabrielforny-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/gabriel-forny-501439132/)
-[![Instagram Badge](https://img.shields.io/badge/-gabriel.forny-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://www.instagram.com/gabrielforny/)
-[![Gmail Badge](https://img.shields.io/badge/-gf097@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gf097@hotmail.com)](mailto:gf097@hotmail.com)
+Um entusiasta da tecnologia e desenvolvedor de software desde 2021. Migrado de carreira, vim da área educacional, onde era professor de Matemática. Hoje atuo como desenvolvedor, sou formado em Análise e Desenvolvimento de Sistemas e sou um pessoa que sempre está em busca de novos conhecimentos e aprofundando conhecimentos!
 
-## Tecnologias que utilizo no meu dia a dia
+"Quanto mais aumenta nosso conhecimento, mais evidente fica nossa ignorância! - John F. Kennedy"
+
+## 🔧 Tecnologias e Ferramentas
 
 <div style="
     margin-bottom: 0 !important;
-    display: grid;
+    display: flex;
     gap: 9px;">
    <div>
       <img align="center" alt="html5"
@@ -52,3 +52,8 @@
    </div>
 </div>
 
+## 📫 Entre em Contato
+
+[![Linkedin Badge](https://img.shields.io/badge/-gabrielforny-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/gabriel-forny-501439132/)
+[![Instagram Badge](https://img.shields.io/badge/-gabriel.forny-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://www.instagram.com/gabrielforny/)
+[![Gmail Badge](https://img.shields.io/badge/-gf097@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gf097@hotmail.com)](mailto:gf097@hotmail.com)
