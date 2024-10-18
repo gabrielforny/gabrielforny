@@ -1,6 +1,11 @@
 ### Olá! Eu sou o Gabriel Forny 👋
 
-Um entusiasta da tecnologia e desenvolvedor de software desde 2021. Migrado de carreira, vim da área educacional, onde era professor de Matemática. Hoje atuo como desenvolvedor, sou formado em Análise e Desenvolvimento de Sistemas e sou um pessoa que sempre está em busca de novos conhecimentos e aprofundando conhecimentos!
+Desenvolvedor Full-Stack com experiência sólida em projetos front-end, back-end e RPA. Graduado em Análise 
+e Desenvolvimento de Sistemas pelo UNISUAM e com uma ampla gama de habilidades técnicas. Atuei em 
+diversas empresas, contribuindo para o desenvolvimento de soluções inovadoras e eficientes. Especialista em 
+tecnologias como Angular, HTML, CSS, SASS, Bootstrap, TypeScript, JavaScript, C#, .NET, RPA e bancos de 
+dados. Possuo experiência significativa no setor varejista e em projetos de automação, incluindo aplicações 
+para grandes empresas como Burger King, Panasonic e Leroy Merlin.
 
 💭"Quanto mais aumenta nosso conhecimento, mais evidente fica nossa ignorância!" - John F. Kennedy
 
