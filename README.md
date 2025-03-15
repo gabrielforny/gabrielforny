@@ -1,64 +1,46 @@
-### Olá! Eu sou o Gabriel Forny 👋
+### Olá, eu sou o Gabriel Forny 👋
 
-Desenvolvedor Full-Stack com experiência sólida em projetos front-end, back-end e RPA. Graduado em Análise 
-e Desenvolvimento de Sistemas pelo UNISUAM e com uma ampla gama de habilidades técnicas. Atuei em 
-diversas empresas, contribuindo para o desenvolvimento de soluções inovadoras e eficientes. Especialista em 
-tecnologias como Angular, HTML, CSS, SASS, Bootstrap, TypeScript, JavaScript, C#, .NET, RPA e bancos de 
-dados. Possuo experiência significativa no setor varejista e em projetos de automação, incluindo aplicações 
-para grandes empresas como Burger King, Panasonic e Leroy Merlin.
+- 🔭 Desenvolvedor Full-Stack com expirência em Angular, C#, RPA, Python e Wordpress
+- 🌱 Entusiasta da tecnologia.
+- 📫 Conheça alguns dos meus trabalhos já feitos:
 
-💭"Quanto mais aumenta nosso conhecimento, mais evidente fica nossa ignorância!" - John F. Kennedy
 
-## 🔧 Tecnologias e Ferramentas
-
-<div style="
-    margin-bottom: 0 !important;
-    display: flex;
-    gap: 9px;">
-   <div>
-      <img align="center" alt="html5"
-         src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoCol" />
-   </div>
-      <div>
-      <img align="center" alt="html5"
-         src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-   </div>
-   <div>
-      <img align="center" alt="html5"
-         src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-   </div>
-   <div>
-      <img align="center" alt="html5"
-         src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-   </div>
-   <div>
-      <img align="center" alt="html5"
-         src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-   </div>
-   <div>
-      <img align="center" alt="html5"
-         src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-   </div>
-   <div>
-      <img align="center" alt="html5"
-         src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-   </div>
-   <div>
-      <img align="center" alt="html5"
-         src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-   </div>
-   <div>
-      <img align="center" alt="html5"
-         src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-   </div>
-   <div>
-      <img align="center" alt="html5"
-         src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-   </div>
+<div align="center">
+  <a href="https://github.com/gabrielforny">
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielforny&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>  
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielforny&layout=compact&langs_count=7&theme=github_dark"/> -->
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielforny&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
+   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielforny&theme=algolia&layout=compact&langs_count=7"/> </a>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gabriel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Gabriel-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gabriel-Unity" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg">
+  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gabriel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gabriel-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">         
+</div>
+  
+  <!--referencia: https://github.com/devicons/devicon/tree/master/icons -->
+  
+  
+  ##
+  
+  
+<div>
+    <a href = "mailto:gfmtech21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="mailto:gf097@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/gabriel-forny-501439132/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a> 
 </div>
 
-## 📫 Entre em Contato
-
-[![Linkedin Badge](https://img.shields.io/badge/-gabrielforny-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/gabriel-forny-501439132/)
-[![Instagram Badge](https://img.shields.io/badge/-gabriel.forny-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://www.instagram.com/gabrielforny/)
-[![Gmail Badge](https://img.shields.io/badge/-gf097@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gf097@hotmail.com)](mailto:gf097@hotmail.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/burnout156/burnout156/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/burnout156/burnout156/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/burnout156/burnout156/output/github-contribution-grid-snake.svg">
+</picture>
