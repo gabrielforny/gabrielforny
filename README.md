@@ -33,6 +33,9 @@
   
   
 <div>
+    <a href="https://wa.me/5521991639889" target="_blank">
+      <img src="https://img.shields.io/badge/-WhatsApp-%23292D2C?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+    </a>
     <a href = "mailto:gfmtech21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="mailto:gf097@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/gabriel-forny-501439132/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
