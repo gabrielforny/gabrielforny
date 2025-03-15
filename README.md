@@ -2,7 +2,7 @@
 
 - 🔭 Desenvolvedor Full-Stack com expirência em Angular, C#, RPA, Python e Wordpress
 - 🌱 Entusiasta da tecnologia.
-- 📫 Conheça alguns dos meus trabalhos já feitos:
+- 📫 Conheça alguns dos meus trabalhos já feitos: https://gabrielforny.github.io/repositorio-online/
 
 
 <div align="center">
