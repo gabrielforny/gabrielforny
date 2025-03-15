@@ -26,11 +26,6 @@
   <img align="center" alt="Gabriel-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">         
 </div>
   
-  <!--referencia: https://github.com/devicons/devicon/tree/master/icons -->
-  
-  
-  ##
-  
   
 <div>
     <a href="https://wa.me/5521991639889" target="_blank">
@@ -43,7 +38,7 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/burnout156/burnout156/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/burnout156/burnout156/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/burnout156/burnout156/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielforny/gabrielforny/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielforny/gabrielforny/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabrielforny/gabrielforny/output/github-contribution-grid-snake.svg">
 </picture>
